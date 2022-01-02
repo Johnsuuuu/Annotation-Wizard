@@ -24,7 +24,7 @@ Annotation Wizard is a web-based image annotation platform.
 // Install dependencies for server & client
 npm install && npm run client-install
 
-// start your local MongoDB server
+// Start your local MongoDB server
 mongod
 
 // Run client & server with concurrently
